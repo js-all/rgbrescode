@@ -1,0 +1,6 @@
+pid/*
+!pid/.placeholder
+finput
+*.logs
+# a file that i used to sync irl and computer recordings, not relevant to the project
+calibrate.py
